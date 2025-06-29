@@ -1,0 +1,10 @@
+{
+  "model_name": "ibm-granite/granite-3.3-8b-instruct",
+  "training_epochs": 5,
+  "learning_rate": 0.0002,
+  "batch_size": 2,
+  "gradient_accumulation_steps": 4,
+  "dataset_size": 14543,
+  "test_question": "What is Article 21 of the Indian Constitution?",
+  "test_answer": "Article 21 of the Indian Constitution states that all citizens are equal before the law and are entitled to the equal protection of the law without discrimination on grounds of religion, race, caste, sex, place of birth, or residence. It also states that in particular, no citizen shall be denied any right, privilege or immunity or be subject to any disability, liability, restriction or condition with regard to access to the places of worship or to the practice of religion. It further states that no citizen shall be denied access to any place of worship other than a places reserved for the members of any particular caste, sect or community. However, nothing in this"
+}
