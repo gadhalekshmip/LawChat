@@ -116,13 +116,11 @@ Our **Legal AI Assistant** is fundamentally built on **IBM Granite models**, int
   Input to Fine-Tuned Granite 3.3-8B →
   Output: Context-aware Legal Answer with Citations
 
-
 ## 🖼️ **System Overview Diagram**
 
-![System Architecture](LawChat/mermaid)
+![System Architecture](https://github.com/gadhalekshmip/LawChat/raw/main/mermaid.png)
 
 > *Above: Mermaid diagram showing query classification, Granite model routing, and case-law retrieval pipeline.*
-
 ---
 
 ## 🎥 **Demo Video**
